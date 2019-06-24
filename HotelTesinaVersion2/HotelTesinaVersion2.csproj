@@ -1,0 +1,303 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{200D550A-C236-4029-94C7-E0B887B299CE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HotelTesinaVersion2</RootNamespace>
+    <AssemblyName>HotelTesinaVersion2</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data">
+      <HintPath>..\..\..\..\..\Desktop\SistemaGestionHotel.versionCasiterminada\SistemaGestionHotel\bin\Debug\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Clases\DAL\ClienteDAL.cs" />
+    <Compile Include="Clases\DAL\ConnectionBaseDatos.cs" />
+    <Compile Include="Clases\DAL\ConsumicionDAL.cs" />
+    <Compile Include="Clases\DAL\ConsumicionPorHabitacionDAL.cs" />
+    <Compile Include="Clases\DAL\HabitacionDAL.cs" />
+    <Compile Include="Clases\DAL\ReservaDAL.cs" />
+    <Compile Include="Clases\Entidades\Cliente.cs" />
+    <Compile Include="Clases\Entidades\Consumicion.cs" />
+    <Compile Include="Clases\Entidades\ConsumicionPorHabitacion.cs" />
+    <Compile Include="Clases\Entidades\Habitacion.cs" />
+    <Compile Include="Clases\Entidades\Reserva.cs" />
+    <Compile Include="Formularios\Clientes\FormAgregarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Clientes\FormAgregarCliente.Designer.cs">
+      <DependentUpon>FormAgregarCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Clientes\FormEliminarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Clientes\FormEliminarCliente.Designer.cs">
+      <DependentUpon>FormEliminarCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Clientes\FormModificarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Clientes\FormModificarCliente.Designer.cs">
+      <DependentUpon>FormModificarCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Clientes\FormVerClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Clientes\FormVerClientes.Designer.cs">
+      <DependentUpon>FormVerClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\ConsumicionesPorHabitaciones\FormAgregarConsumicionPorHabitacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\ConsumicionesPorHabitaciones\FormAgregarConsumicionPorHabitacion.Designer.cs">
+      <DependentUpon>FormAgregarConsumicionPorHabitacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\ConsumicionesPorHabitaciones\FormConsumicionesPorHabitacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\ConsumicionesPorHabitaciones\FormConsumicionesPorHabitacion.Designer.cs">
+      <DependentUpon>FormConsumicionesPorHabitacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\ConsumicionesPorHabitaciones\FormEliminarConsumicionPorHabitacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\ConsumicionesPorHabitaciones\FormEliminarConsumicionPorHabitacion.Designer.cs">
+      <DependentUpon>FormEliminarConsumicionPorHabitacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\ConsumicionesPorHabitaciones\FormTodasLasConsumicionesPorHabitaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\ConsumicionesPorHabitaciones\FormTodasLasConsumicionesPorHabitaciones.Designer.cs">
+      <DependentUpon>FormTodasLasConsumicionesPorHabitaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Consumiciones\FormAgregarConsumicion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Consumiciones\FormAgregarConsumicion.Designer.cs">
+      <DependentUpon>FormAgregarConsumicion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Consumiciones\FormEliminarConsumicion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Consumiciones\FormEliminarConsumicion.Designer.cs">
+      <DependentUpon>FormEliminarConsumicion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Consumiciones\FormModificarConsumicion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Consumiciones\FormModificarConsumicion.Designer.cs">
+      <DependentUpon>FormModificarConsumicion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Consumiciones\FormVerConsumiciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Consumiciones\FormVerConsumiciones.Designer.cs">
+      <DependentUpon>FormVerConsumiciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FormPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FormPrincipal.Designer.cs">
+      <DependentUpon>FormPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Habitaciones\FormAgregarHabitacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Habitaciones\FormAgregarHabitacion.Designer.cs">
+      <DependentUpon>FormAgregarHabitacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Habitaciones\FormEliminarHabitacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Habitaciones\FormEliminarHabitacion.Designer.cs">
+      <DependentUpon>FormEliminarHabitacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Habitaciones\FormModificarHabitacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Habitaciones\FormModificarHabitacion.Designer.cs">
+      <DependentUpon>FormModificarHabitacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Habitaciones\FormVerHabitaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Habitaciones\FormVerHabitaciones.Designer.cs">
+      <DependentUpon>FormVerHabitaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Reservas\FormAgregarReserva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Reservas\FormAgregarReserva.Designer.cs">
+      <DependentUpon>FormAgregarReserva.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Reservas\FormEliminarReserva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Reservas\FormEliminarReserva.Designer.cs">
+      <DependentUpon>FormEliminarReserva.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Reservas\FormReservasPorCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Reservas\FormReservasPorCliente.Designer.cs">
+      <DependentUpon>FormReservasPorCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Reservas\FormReservasPorHabitaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Reservas\FormReservasPorHabitaciones.Designer.cs">
+      <DependentUpon>FormReservasPorHabitaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Reservas\FormTodasLasReservas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Reservas\FormTodasLasReservas.Designer.cs">
+      <DependentUpon>FormTodasLasReservas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Reservas\FormVerFormasPago.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Reservas\FormVerFormasPago.Designer.cs">
+      <DependentUpon>FormVerFormasPago.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Formularios\Clientes\FormAgregarCliente.resx">
+      <DependentUpon>FormAgregarCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Clientes\FormEliminarCliente.resx">
+      <DependentUpon>FormEliminarCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Clientes\FormModificarCliente.resx">
+      <DependentUpon>FormModificarCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Clientes\FormVerClientes.resx">
+      <DependentUpon>FormVerClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\ConsumicionesPorHabitaciones\FormAgregarConsumicionPorHabitacion.resx">
+      <DependentUpon>FormAgregarConsumicionPorHabitacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\ConsumicionesPorHabitaciones\FormConsumicionesPorHabitacion.resx">
+      <DependentUpon>FormConsumicionesPorHabitacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\ConsumicionesPorHabitaciones\FormEliminarConsumicionPorHabitacion.resx">
+      <DependentUpon>FormEliminarConsumicionPorHabitacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\ConsumicionesPorHabitaciones\FormTodasLasConsumicionesPorHabitaciones.resx">
+      <DependentUpon>FormTodasLasConsumicionesPorHabitaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Consumiciones\FormAgregarConsumicion.resx">
+      <DependentUpon>FormAgregarConsumicion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Consumiciones\FormEliminarConsumicion.resx">
+      <DependentUpon>FormEliminarConsumicion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Consumiciones\FormModificarConsumicion.resx">
+      <DependentUpon>FormModificarConsumicion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Consumiciones\FormVerConsumiciones.resx">
+      <DependentUpon>FormVerConsumiciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FormPrincipal.resx">
+      <DependentUpon>FormPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Habitaciones\FormAgregarHabitacion.resx">
+      <DependentUpon>FormAgregarHabitacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Habitaciones\FormEliminarHabitacion.resx">
+      <DependentUpon>FormEliminarHabitacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Habitaciones\FormModificarHabitacion.resx">
+      <DependentUpon>FormModificarHabitacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Habitaciones\FormVerHabitaciones.resx">
+      <DependentUpon>FormVerHabitaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Reservas\FormAgregarReserva.resx">
+      <DependentUpon>FormAgregarReserva.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Reservas\FormEliminarReserva.resx">
+      <DependentUpon>FormEliminarReserva.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Reservas\FormReservasPorCliente.resx">
+      <DependentUpon>FormReservasPorCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Reservas\FormReservasPorHabitaciones.resx">
+      <DependentUpon>FormReservasPorHabitaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Reservas\FormTodasLasReservas.resx">
+      <DependentUpon>FormTodasLasReservas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Reservas\FormVerFormasPago.resx">
+      <DependentUpon>FormVerFormasPago.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

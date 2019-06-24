@@ -1,0 +1,101 @@
+c:\users\santiago reynaga\documents\visual studio 2015\Projects\HotelTesinaVersion2\HotelTesinaVersion2\bin\Debug\HotelTesinaVersion2.exe.config
+c:\users\santiago reynaga\documents\visual studio 2015\Projects\HotelTesinaVersion2\HotelTesinaVersion2\bin\Debug\HotelTesinaVersion2.exe
+c:\users\santiago reynaga\documents\visual studio 2015\Projects\HotelTesinaVersion2\HotelTesinaVersion2\bin\Debug\HotelTesinaVersion2.pdb
+c:\users\santiago reynaga\documents\visual studio 2015\Projects\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.csprojResolveAssemblyReference.cache
+c:\users\santiago reynaga\documents\visual studio 2015\Projects\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Properties.Resources.resources
+c:\users\santiago reynaga\documents\visual studio 2015\Projects\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.csproj.GenerateResource.Cache
+c:\users\santiago reynaga\documents\visual studio 2015\Projects\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.exe
+c:\users\santiago reynaga\documents\visual studio 2015\Projects\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.pdb
+c:\users\santiago reynaga\documents\visual studio 2015\Projects\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.Clientes.FormAgregarCliente.resources
+c:\users\santiago reynaga\documents\visual studio 2015\Projects\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.Clientes.FormEliminarCliente.resources
+c:\users\santiago reynaga\documents\visual studio 2015\Projects\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.Clientes.FormModificarCliente.resources
+c:\users\santiago reynaga\documents\visual studio 2015\Projects\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.ConsumicionesPorHabitaciones.FormAgregarConsumicionPorHabitacion.resources
+c:\users\santiago reynaga\documents\visual studio 2015\Projects\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.ConsumicionesPorHabitaciones.FormEliminarConsumicionPorHabitacion.resources
+c:\users\santiago reynaga\documents\visual studio 2015\Projects\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.Consumiciones.FormAgregarConsumicion.resources
+c:\users\santiago reynaga\documents\visual studio 2015\Projects\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.Consumiciones.FormEliminarConsumicion.resources
+c:\users\santiago reynaga\documents\visual studio 2015\Projects\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.Consumiciones.FormModificarConsumicion.resources
+c:\users\santiago reynaga\documents\visual studio 2015\Projects\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.FormPrincipal.resources
+c:\users\santiago reynaga\documents\visual studio 2015\Projects\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.Habitaciones.FormAgregarHabitacion.resources
+c:\users\santiago reynaga\documents\visual studio 2015\Projects\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.Habitaciones.FormEliminarHabitacion.resources
+c:\users\santiago reynaga\documents\visual studio 2015\Projects\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.Habitaciones.FormModificarHabitacion.resources
+c:\users\santiago reynaga\documents\visual studio 2015\Projects\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.Reservas.FormAgregarReserva.resources
+c:\users\santiago reynaga\documents\visual studio 2015\Projects\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.Reservas.FormEliminarReserva.resources
+c:\users\santiago reynaga\documents\visual studio 2015\Projects\HotelTesinaVersion2\HotelTesinaVersion2\bin\Debug\MySql.Data.dll
+c:\users\santiago reynaga\documents\visual studio 2015\Projects\HotelTesinaVersion2\HotelTesinaVersion2\bin\Debug\MySql.Data.xml
+c:\users\santiago reynaga\documents\visual studio 2015\Projects\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.ConsumicionesPorHabitaciones.FormConsumicionesPorHabitacion.resources
+c:\users\santiago reynaga\documents\visual studio 2015\Projects\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.ConsumicionesPorHabitaciones.FormTodasLasConsumicionesPorHabitaciones.resources
+c:\users\santiago reynaga\documents\visual studio 2015\Projects\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.Reservas.FormReservasPorCliente.resources
+c:\users\santiago reynaga\documents\visual studio 2015\Projects\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.Reservas.FormReservasPorHabitaciones.resources
+c:\users\santiago reynaga\documents\visual studio 2015\Projects\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.Reservas.FormTodasLasReservas.resources
+C:\Users\Santiago Reynaga\documents\visual studio 2015\Projects\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.Clientes.FormVerClientes.resources
+C:\Users\Santiago Reynaga\documents\visual studio 2015\Projects\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.Consumiciones.FormVerConsumiciones.resources
+C:\Users\Santiago Reynaga\documents\visual studio 2015\Projects\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.Habitaciones.FormVerHabitaciones.resources
+C:\Users\Santiago Reynaga\documents\visual studio 2015\Projects\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.Reservas.FormVerFormasPago.resources
+C:\Users\Alvaro\Desktop\HotelTesinaVersion2\HotelTesinaVersion2\bin\Debug\HotelTesinaVersion2.exe.config
+C:\Users\Alvaro\Desktop\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.exe
+C:\Users\Alvaro\Desktop\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.pdb
+C:\Users\Alvaro\Desktop\HotelTesinaVersion2\HotelTesinaVersion2\bin\Debug\HotelTesinaVersion2.exe
+C:\Users\Alvaro\Desktop\HotelTesinaVersion2\HotelTesinaVersion2\bin\Debug\HotelTesinaVersion2.pdb
+C:\Users\Alvaro\Desktop\HotelTesinaVersion2\HotelTesinaVersion2\bin\Debug\MySql.Data.xml
+C:\Users\Alvaro\Desktop\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.csprojResolveAssemblyReference.cache
+C:\Users\Alvaro\Desktop\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.Clientes.FormAgregarCliente.resources
+C:\Users\Alvaro\Desktop\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.Clientes.FormEliminarCliente.resources
+C:\Users\Alvaro\Desktop\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.Clientes.FormModificarCliente.resources
+C:\Users\Alvaro\Desktop\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.Clientes.FormVerClientes.resources
+C:\Users\Alvaro\Desktop\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.ConsumicionesPorHabitaciones.FormAgregarConsumicionPorHabitacion.resources
+C:\Users\Alvaro\Desktop\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.ConsumicionesPorHabitaciones.FormConsumicionesPorHabitacion.resources
+C:\Users\Alvaro\Desktop\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.ConsumicionesPorHabitaciones.FormEliminarConsumicionPorHabitacion.resources
+C:\Users\Alvaro\Desktop\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.ConsumicionesPorHabitaciones.FormTodasLasConsumicionesPorHabitaciones.resources
+C:\Users\Alvaro\Desktop\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.Consumiciones.FormAgregarConsumicion.resources
+C:\Users\Alvaro\Desktop\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.Consumiciones.FormEliminarConsumicion.resources
+C:\Users\Alvaro\Desktop\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.Consumiciones.FormModificarConsumicion.resources
+C:\Users\Alvaro\Desktop\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.Consumiciones.FormVerConsumiciones.resources
+C:\Users\Alvaro\Desktop\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.FormPrincipal.resources
+C:\Users\Alvaro\Desktop\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.Habitaciones.FormAgregarHabitacion.resources
+C:\Users\Alvaro\Desktop\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.Habitaciones.FormEliminarHabitacion.resources
+C:\Users\Alvaro\Desktop\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.Habitaciones.FormModificarHabitacion.resources
+C:\Users\Alvaro\Desktop\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.Habitaciones.FormVerHabitaciones.resources
+C:\Users\Alvaro\Desktop\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.Reservas.FormAgregarReserva.resources
+C:\Users\Alvaro\Desktop\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.Reservas.FormEliminarReserva.resources
+C:\Users\Alvaro\Desktop\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.Reservas.FormReservasPorCliente.resources
+C:\Users\Alvaro\Desktop\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.Reservas.FormReservasPorHabitaciones.resources
+C:\Users\Alvaro\Desktop\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.Reservas.FormTodasLasReservas.resources
+C:\Users\Alvaro\Desktop\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.Reservas.FormVerFormasPago.resources
+C:\Users\Alvaro\Desktop\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Properties.Resources.resources
+C:\Users\Alvaro\Desktop\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.csproj.GenerateResource.Cache
+C:\Users\Alvaro\Desktop\Escuela\Tesina 6to 4ta - 2016\Programación\HotelTesinaVersion2\HotelTesinaVersion2\bin\Debug\HotelTesinaVersion2.exe.config
+C:\Users\Alvaro\Desktop\Escuela\Tesina 6to 4ta - 2016\Programación\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.exe
+C:\Users\Alvaro\Desktop\Escuela\Tesina 6to 4ta - 2016\Programación\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.pdb
+D:\Secundario\Tesina 6to 4ta - 2016\Programación\HotelTesinaVersion2\HotelTesinaVersion2\bin\Debug\HotelTesinaVersion2.exe.config
+D:\Secundario\Tesina 6to 4ta - 2016\Programación\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.exe
+D:\Secundario\Tesina 6to 4ta - 2016\Programación\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.pdb
+D:\Secundario\Tesina 6to 4ta - 2016\Programación\HotelTesinaVersion2\HotelTesinaVersion2\bin\Debug\HotelTesinaVersion2.exe
+D:\Secundario\Tesina 6to 4ta - 2016\Programación\HotelTesinaVersion2\HotelTesinaVersion2\bin\Debug\HotelTesinaVersion2.pdb
+D:\Secundario\Tesina 6to 4ta - 2016\Programación\HotelTesinaVersion2\HotelTesinaVersion2\bin\Debug\MySql.Data.dll
+D:\Secundario\Tesina 6to 4ta - 2016\Programación\HotelTesinaVersion2\HotelTesinaVersion2\bin\Debug\MySql.Data.xml
+D:\Secundario\Tesina 6to 4ta - 2016\Programación\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.csprojResolveAssemblyReference.cache
+D:\Secundario\Tesina 6to 4ta - 2016\Programación\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.Clientes.FormAgregarCliente.resources
+D:\Secundario\Tesina 6to 4ta - 2016\Programación\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.Clientes.FormEliminarCliente.resources
+D:\Secundario\Tesina 6to 4ta - 2016\Programación\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.Clientes.FormModificarCliente.resources
+D:\Secundario\Tesina 6to 4ta - 2016\Programación\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.Clientes.FormVerClientes.resources
+D:\Secundario\Tesina 6to 4ta - 2016\Programación\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.ConsumicionesPorHabitaciones.FormAgregarConsumicionPorHabitacion.resources
+D:\Secundario\Tesina 6to 4ta - 2016\Programación\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.ConsumicionesPorHabitaciones.FormConsumicionesPorHabitacion.resources
+D:\Secundario\Tesina 6to 4ta - 2016\Programación\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.ConsumicionesPorHabitaciones.FormEliminarConsumicionPorHabitacion.resources
+D:\Secundario\Tesina 6to 4ta - 2016\Programación\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.ConsumicionesPorHabitaciones.FormTodasLasConsumicionesPorHabitaciones.resources
+D:\Secundario\Tesina 6to 4ta - 2016\Programación\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.Consumiciones.FormAgregarConsumicion.resources
+D:\Secundario\Tesina 6to 4ta - 2016\Programación\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.Consumiciones.FormEliminarConsumicion.resources
+D:\Secundario\Tesina 6to 4ta - 2016\Programación\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.Consumiciones.FormModificarConsumicion.resources
+D:\Secundario\Tesina 6to 4ta - 2016\Programación\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.Consumiciones.FormVerConsumiciones.resources
+D:\Secundario\Tesina 6to 4ta - 2016\Programación\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.FormPrincipal.resources
+D:\Secundario\Tesina 6to 4ta - 2016\Programación\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.Habitaciones.FormAgregarHabitacion.resources
+D:\Secundario\Tesina 6to 4ta - 2016\Programación\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.Habitaciones.FormEliminarHabitacion.resources
+D:\Secundario\Tesina 6to 4ta - 2016\Programación\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.Habitaciones.FormModificarHabitacion.resources
+D:\Secundario\Tesina 6to 4ta - 2016\Programación\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.Habitaciones.FormVerHabitaciones.resources
+D:\Secundario\Tesina 6to 4ta - 2016\Programación\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.Reservas.FormAgregarReserva.resources
+D:\Secundario\Tesina 6to 4ta - 2016\Programación\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.Reservas.FormEliminarReserva.resources
+D:\Secundario\Tesina 6to 4ta - 2016\Programación\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.Reservas.FormReservasPorCliente.resources
+D:\Secundario\Tesina 6to 4ta - 2016\Programación\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.Reservas.FormReservasPorHabitaciones.resources
+D:\Secundario\Tesina 6to 4ta - 2016\Programación\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.Reservas.FormTodasLasReservas.resources
+D:\Secundario\Tesina 6to 4ta - 2016\Programación\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Formularios.Reservas.FormVerFormasPago.resources
+D:\Secundario\Tesina 6to 4ta - 2016\Programación\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.Properties.Resources.resources
+D:\Secundario\Tesina 6to 4ta - 2016\Programación\HotelTesinaVersion2\HotelTesinaVersion2\obj\Debug\HotelTesinaVersion2.csproj.GenerateResource.Cache
